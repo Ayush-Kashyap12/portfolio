@@ -1,0 +1,6 @@
+{
+  "deploymentProtection": {
+    "standard": false,
+    "preview": false
+  }
+}
